@@ -6,7 +6,7 @@ subtitle: University of Texas at Austin; zhendong.wang@utexas.edu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_cicular: false # crops the image to make it circular
   address: >
     <p>Austin, Texas, US</p>
