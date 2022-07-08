@@ -48,7 +48,7 @@
   contents:
     - title: Deep generative models, such as GANs, VAE, and diffusion models.
     - title: Reinforcement Learning (Online/Offline).
-    - title: Disribution-free uncertainty quantification methods. 
+    - title: Distribution-Free Uncertainty Quantification methods. 
 
 - title: Other Interests
   type: list

@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zhendong Wang # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Zhendong
 middle_name: 
 last_name: Wang
@@ -73,7 +73,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Better contact via email first. :)
+  Better contact me via email first.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
