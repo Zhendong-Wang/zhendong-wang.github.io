@@ -16,12 +16,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fourth year PhD student in the department of Statistics & Data Science at the University of Texas at Austin. I am supervised by professor [Mingyuan Zhou](https://mingyuanzhou.github.io/). Before coming to UT, I completed my Master degree at Columbia University in Data Science major. I received my Bachelor degree in Civil Engineering from Tongji University in China, during which I went to the University of California, Berkeley for one year exchange study.
+I am a **Senior Researcher** at the Microsoft GenAI Team. I completed my **PhD in Statistics and Data Science** at the **University of Texas at Austin**, where I was supervised by [Prof. Mingyuan Zhou](https://mingyuanzhou.github.io/). Prior to UT Austin, I earned a **Master’s degree in Data Science** from **Columbia University** and a **Bachelor’s degree** from **Tongji University** in China. During my undergraduate studies, I spent a year as an exchange student at the **University of California, Berkeley**.
 
-**Research Interests:** I have broad research interests in statistical machine learning. Specifically, my research interests lie in:
-- **Deep generative models**, e.g. diffusion models, GANs, etc. 
-- **Reinforcement Learning**, e.g. online/offline RL, imitation learning, etc.
-- **Multimodal Large Language Models**, e.g., interleaved text-image generation, preference optimization algorithms, etc.
-- **Uncertainty Quantification**, e.g. conformal predictions, etc.
+### Research Interests
+My research interests span **deep generative models**, **reinforcement learning**, and their applications. Specifically, I am interested in:  
+- **Deep Generative Models**: diffusion models, GANs, and related methods.  
+- **Reinforcement Learning**: online/offline RL, imitation learning, and policy optimization.  
+- **Multimodal Large Language Models**: interleaved text-image generation, preference optimization algorithms, and related advancements.  
+- **Uncertainty Quantification**: conformal predictions and robust modeling techniques.  
 
-I am set to graduate in December 2024. Please don't hesitate to get in touch if you're interested in my research or have potential opportunities to discuss.
+I am always open to collaborations, discussions, and exploring new opportunities. Feel free to reach out if you’re interested in my research or would like to discuss potential projects. If you’re seeking intern opportunities, I’d be happy to connect!  
+

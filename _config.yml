@@ -72,8 +72,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: >
-  Better contact me via email first.
+contact_note: # your note here
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
