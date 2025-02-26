@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new paper **Diffusion-GAN: Training GANs with Diffusion** was public on [arXiv](https://arxiv.org/abs/2206.02262) and the code was released on [Github](https://github.com/Zhendong-Wang/Diffusion-GAN). 
+Our new paper **Diffusion-GAN: Training GANs with Diffusion** was public on [arXiv](https://arxiv.org/abs/2206.02262) and the code was released on [Github](https://github.com/Zhendong-Wang/Diffusion-GAN).

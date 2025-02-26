@@ -12,17 +12,17 @@
     - title: PhD in Statistics & Data Science
       institution: University of Texas at Austin
       year: 2020-now
-      description: 
+      description:
         - GPAs 4.0/4.0
     - title: Master in Data Science
       institution: Columbia University
       year: 2018-2020
-      description: 
+      description:
         - GPA 4.0/4.0
     - title: Bachelor in Civil Engineering
       institution: Tongji University (Shanghai, China)
       year: 2014-2018
-      description: 
+      description:
         - GPA 90.45/100.00
 
 - title: Experience
@@ -32,7 +32,7 @@
       institution: Twitter, Inc.
       year: summer 2022
       description:
-        - Developed Offline Reinforcement learning algorithms for long-term valued recommender system. 
+        - Developed Offline Reinforcement learning algorithms for long-term valued recommender system.
     - title: ML Research Engineer
       institution: Twitter, Inc.
       year: summer 2021
@@ -48,7 +48,7 @@
   contents:
     - title: Deep generative models, such as GANs, VAE, and diffusion models.
     - title: Reinforcement Learning (Online/Offline).
-    - title: Distribution-Free Uncertainty Quantification methods. 
+    - title: Distribution-Free Uncertainty Quantification methods.
 
 - title: Other Interests
   type: list
